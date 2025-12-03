@@ -1,0 +1,100 @@
+# Mr.Kitty – After Dark(Extended)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:31.23] I see you, you see me
+[00:34.60] How pleasant, this feeling
+[00:38.23] The moment you hold me
+[00:41.63] I missed you, I'm sorry
+[00:45.08] I've given what I have
+[00:48.57] I've showed you I'm growing
+[00:51.95] The ashes fall slowly
+[00:55.39] As your voice consoles me
+[01:07.89] 
+[00:58.33] As the hours pass
+[01:00.27] I will let you know
+[01:01.96] That I need to ask
+[01:03.55] Before I'm alone
+[01:05.23] How it feels to rest
+[01:07.05] On your patient lips
+[01:08.75] To eternal bliss
+[01:10.41] I'm so glad to know
+[01:19.91] 
+[01:11.86] As the hours pass
+[01:13.67] I will let you know
+[01:15.21] That I need to ask
+[01:17.18] Before I'm alone
+[01:19.05] How it feels to rest
+[01:20.61] On your patient lips
+[01:22.43] To eternal bliss
+[01:24.01] I'm so glad to know
+[01:33.51] 
+[01:26.27] We're swaying to drum beats
+[01:29.69] In motion, I'm feeling
+[01:33.29] My patience controlling
+[01:36.59] The question I won't speak
+[01:39.62] We're telling the stories
+[01:43.43] Our laughter, he knows me
+[01:46.78] We're leaving, we're talking
+[01:49.95] You're closer, it's calming
+[02:03.45] 
+[01:53.44] As the hours pass
+[01:54.80] I will let you know
+[01:56.59] That I need to ask
+[01:58.22] Before I'm alone
+[01:59.98] How it feels to rest
+[02:01.85] On your patient lips
+[02:03.32] To eternal bliss
+[02:05.11] I'm so glad to know
+[02:14.61] 
+[02:06.92] As the hours pass
+[02:08.59] I will let you know
+[02:10.37] That I need to ask
+[02:11.95] Before I'm alone
+[02:13.54] How it feels to rest
+[02:15.41] On your patient lips
+[02:17.05] To eternal bliss
+[02:18.90] I'm so glad to know
+[02:28.40] 
+[02:48.78] The night will hold us close and the stars will guide us home
+[02:55.16] I've been waiting for this moment, we're finally alone
+[03:02.38] I turn to ask the question, so anxious, my thoughts
+[03:09.14] Your lips were soft like winter, in your passion, I was lost
+[03:39.14] 
+[03:15.58] As the hours pass
+[03:17.12] I will let you know
+[03:18.85] That I need to ask
+[03:20.56] Before I'm alone
+[03:22.31] How it feels to rest
+[03:24.05] On your patient lips
+[03:25.75] To eternal bliss
+[03:27.43] I'm so glad to know
+[03:36.93] 
+[03:29.08] As the hours pass
+[03:30.74] I will let you know
+[03:32.69] That I need to ask
+[03:34.22] Before I'm alone
+[03:36.04] How it feels to rest
+[03:37.98] On your patient lips
+[03:39.55] To eternal bliss
+[03:41.13] I'm so glad to know
+[03:50.63] 
+[03:42.73] As the hours pass
+[03:44.38] I will let you know
+[03:46.45] That I need to ask
+[03:48.05] Before I'm alone
+[03:49.67] How it feels to rest
+[03:51.52] On your patient lips
+[03:53.11] To eternal bliss
+[03:54.81] I'm so glad to know
+[04:04.31] 
+[03:56.64] As the hours pass
+[03:58.46] I will let you know
+[04:00.02] That I need to ask
+[04:01.62] Before I'm alone
+[04:03.53] How it feels to rest
+[04:05.11] On your patient lips
+[04:06.17] To eternal bliss
+[04:08.22] I'm so glad to know
+```
